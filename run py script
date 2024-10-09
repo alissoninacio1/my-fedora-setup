@@ -1,0 +1,13 @@
+-open the terminal here and run this command that's inside this folder.
+
+""""
+python3 atualiza_scripts.py
+
+""""
+
+-to automate the installation
+
+"""
+python3 setup_fedora.py
+
+""""
